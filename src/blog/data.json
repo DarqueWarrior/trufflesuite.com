@@ -1,4 +1,12 @@
 {
+  "three-new-features-on-ganache-to-improve-your-developer-experience": {
+    "title": "Three new features on Ganache to improve your developer experience",
+    "date": "2022-09-05",
+    "author": "Kingsley Arinze",
+    "published": true,
+    "excerpt": "Since the release of Ganache 7, we’ve mostly focused our attention on bug fixes and UX improvements. Now with the changes coming to Ethereum in the coming weeks, due to the Merge, we’ve decided to expand our focus to also include new features...",
+    "image": "/img/blog/thumbnails/whats-new-in-ganache-thumbnail.jpg"
+  },
   "preparing-for-the-merge-hear-from-our-truffle-engineers": {
     "title": "Preparing for the Merge, hear from our Truffle engineers",
     "date": "2022-07-28",
